@@ -1,7 +1,3 @@
-Here's the updated README for **SpaceFinder**, incorporating AWS and TypeScript technologies:
-
----
-
 # SpaceFinder - Serverless Web Application
 
 ## Overview
