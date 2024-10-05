@@ -35,3 +35,8 @@
 - **Authentication**: AWS Cognito
 - **Monitoring**: CloudWatch, SNS, X-Ray
 - **Testing**: Jest for CDK unit testing and validation
+
+## Walkthrough
+![Screenshot 2024-10-05 at 3 26 55 PM](https://github.com/user-attachments/assets/88621ed2-b105-4d00-8602-4a20c05b8607)
+![walkthrough](https://github.com/user-attachments/assets/59f3079e-cf9a-4554-941f-f8a846dca3fc)
+
